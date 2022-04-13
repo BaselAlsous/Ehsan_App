@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888148081243",
+    "project_id": "ehsan-pro",
+    "storage_bucket": "ehsan-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888148081243:android:6dffc7910756cc4c2edd7e",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888148081243-5pcio9r5sqe9glk7ubhoc41lla0pu67h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADzDqNgNLuj21ZOgwde-eBZMa2jk2Ly0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888148081243-5pcio9r5sqe9glk7ubhoc41lla0pu67h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
